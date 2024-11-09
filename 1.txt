@@ -1,2 +1,41 @@
 Hello World
 Hello World 2
+
+git config --global user.name <user-name>
+git config --global user.email <email>
+
+initialize     ==>    git init
+
+
+staging area   ==>    git add <file_name>
+commit         ==>    git commit -m "description"
+
+unmodified ==> modified
+
+
+list all the commits ==> git log
+
+git status 
+
+
+git branch ==> all branch list
+
+
+git branch -M main (rename branch)
+
+
+Personal Access token for password ==> Setting > Developer Setting > Personal Access Token 
+
+
+git push -u <remote-name> <branch-name>
+
+
+git clone https://github.com/varshney565/GitTest.git
+
+
+git pull <remote-name> <branch-name>
+
+
+creating new branch  ==> git branch <branch-name> 
+
+switching to branch  ==> git checkout <branch-name>
